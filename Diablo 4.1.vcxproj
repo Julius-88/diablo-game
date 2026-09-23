@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Diablo 4.1.cpp" />
-    <ClCompile Include="PlayerStats.cpp" />
     <ClCompile Include="ValidInput.cpp" />
     <ClCompile Include="Dungeon.cpp" />
   </ItemGroup>

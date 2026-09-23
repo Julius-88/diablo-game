@@ -1,7 +1,6 @@
 #include <iostream>
 #include "Dungeon.h"
 #include "ValidInput.h"
-#include "PlayerStats.h"
 
 namespace Dungeon
 {
@@ -53,7 +52,6 @@ namespace Dungeon
 			std::cout << "=============================" << std::endl;
 			std::cout << "|     Player Stats     |" << std::endl;
 			std::cout << "=============================\n\n" << std::endl;
-			std::cout << Stats::hp << std::endl;
 
 		}
 	}
