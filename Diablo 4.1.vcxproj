@@ -140,12 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Diablo 4.1.cpp" />
+    <ClCompile Include="PlayerStats.cpp" />
     <ClCompile Include="ValidInput.cpp" />
-    <ClCompile Include="Story.cpp" />
+    <ClCompile Include="Dungeon.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PlayerStats.h" />
     <ClInclude Include="ValidInput.h" />
-    <ClInclude Include="Story.h" />
+    <ClInclude Include="Dungeon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

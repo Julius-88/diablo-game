@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Diablo 4.1.vcxproj" />
+  <Project Path="Diablo 4.1.vcxproj" Id="b210af98-063f-4d6c-9ab1-55923312b105" />
 </Solution>

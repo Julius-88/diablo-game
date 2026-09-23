@@ -1,10 +1,13 @@
 #include <iostream>
-#include "Story.h"
+#include "Dungeon.h"
 #include "ValidInput.h"
 
 int main()
 {
-    Story::Story1();
+    int health = 100;
+    int strenght = 5;
+
+    Dungeon::DungeonStageOne();
 
 }
 
